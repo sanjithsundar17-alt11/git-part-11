@@ -1,0 +1,5 @@
+## Git Merge Tool Setup Workflow
+
+1. Configure merge tool:
+```bash
+git config --global merge.tool vimdiff
